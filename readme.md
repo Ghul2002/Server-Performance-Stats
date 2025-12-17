@@ -25,5 +25,7 @@ Script displays:
 ./server-stats.sh
 For accessibility in a whole system, put script into: `/usr/local/bin/`.
 
-This repository was created as a project: https://roadmap.sh/projects/log-archive-tool
+This repository was created as a project: https://roadmap.sh/projects/server-stats
+
 (Tested on Ubuntu 22.04)
+
